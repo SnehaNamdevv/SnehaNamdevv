@@ -1,8 +1,7 @@
-
 <h1 align="center">Hi 👋, I'm Sneha Namdev</h1>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Full+Stack+MERN+Developer;B.Tech+Student;Java+Learner;Building+Scalable+Web+Applications" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Full+Stack+MERN+Developer;Java+Developer;B.Tech+Student;Building+Scalable+Web+Applications" />
 </h3>
 
 <p align="center">
@@ -13,14 +12,14 @@
 
 ## 👩‍💻 About Me
 
-<img align="right" width="320" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif">
+<img align="right" width="300" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif">
 
 - 🎓 B.Tech 3rd Year Student  
 - 💻 Full Stack MERN Developer  
-- 🚀 Passionate about Web Development  
-- 🔥 Love building real-world projects  
-- 🌱 Currently learning System Design & Advanced Backend  
-- ⚡ Focused on clean & scalable code  
+- ☕ Java + Web Development Enthusiast  
+- 🚀 Passionate about building real-world scalable applications  
+- 🌱 Learning System Design & Advanced Backend Development  
+- ⚡ Focused on writing clean, efficient & maintainable code  
 
 ---
 
@@ -32,20 +31,22 @@
 
 ---
 
-## 🚀 Projects
+## 🚀 Featured Projects
 
 ### 📚 Online Learning Platform (Java)
-Built a Java-based online learning management system to handle course creation, student enrollment, and content management. Implemented OOP principles, database integration, and structured backend logic for efficient data processing and scalability.
+Built a Java-based online learning system with course management, student enrollment, and database integration using OOP principles.
 
-### 🍦 Ice Cream Outlet || Multi-Admin System with Billing & Cashier Management (MERN Stack)
-Developed a full-stack MERN-based web application for managing an ice cream outlet with multi-admin support and role-based access control. Implemented secure authentication, CRUD operations for employees and products, and image upload functionality using Multer. Designed a responsive and user-friendly admin dashboard for efficient business operations.
+---
 
-Integrated a billing system and cashier management module to handle customer orders, generate invoices, and maintain transaction records. Ensured proper tracking of each action using the `createdBy` field for accountability and data integrity across the system.
+### 🍦 Ice Cream Outlet || Multi-Admin System (MERN Stack)
+Developed a full-stack MERN application with multi-admin support, authentication, CRUD operations, image upload, and role-based access control.
 
-Also added a **billing system and cashier management module** to handle customer orders, generate bills, and maintain transaction records. Each sale is tracked properly to ensure accurate reporting and smooth cashier operations. Included `createdBy` field to track admin activities and maintain data accountability.
+Integrated **billing system and cashier management module** to handle customer orders, generate invoices, and maintain transaction records. Ensured proper tracking using `createdBy` field for admin activity monitoring and data integrity.
+
+---
 
 ### 🏥 Medical Report Analyzer (MERN Stack)
-Developed a full-stack Medical Report Analyzer using MongoDB, Express.js, React.js, and Node.js to upload, manage, and analyze patient medical reports. Implemented secure authentication, structured data storage, and dynamic dashboard for viewing patient history and reports. Focused on efficient data handling, responsive UI, and improved accessibility of medical information.
+Built a MERN-based healthcare application to upload, manage, and analyze medical reports with secure authentication, structured storage, and interactive dashboard for patient data visualization.
 
 ---
 
@@ -71,7 +72,7 @@ Developed a full-stack Medical Report Analyzer using MongoDB, Express.js, React.
 
   &nbsp;&nbsp;
 
-  <a href="www.linkedin.com/in/sneha-namdev-9297712b0">
+  <a href="https://www.linkedin.com/in/sneha-namdev-9297712b0">
     <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
   </a>
 
@@ -81,11 +82,6 @@ Developed a full-stack Medical Report Analyzer using MongoDB, Express.js, React.
     <img src="https://skillicons.dev/icons?i=github" height="45"/>
   </a>
 </p>
----
-
-## ✨ Extended Description
-
-Full Stack MERN Developer with experience in building responsive and scalable web applications using React, Node.js, Express, and MongoDB. Skilled in REST APIs, authentication, CRUD operations, and admin dashboards. Passionate about continuous learning and solving real-world problems through clean and efficient code.
 
 ---
 
