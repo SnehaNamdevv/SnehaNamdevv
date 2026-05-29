@@ -1,28 +1,26 @@
-# Animated GitHub README
 
-```md
 <h1 align="center">Hi 👋, I'm Sneha Namdev</h1>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&color=00BFFF&center=true&vCenter=true&width=700&lines=Full+Stack+MERN+Developer;B.Tech+Student;Java+Learner;Building+Scalable+Web+Applications" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Full+Stack+MERN+Developer;B.Tech+Student;Java+Learner;Building+Scalable+Web+Applications" />
 </h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SnehaNamdevv&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=SnehaNamdevv&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 ---
 
 ## 👩‍💻 About Me
 
-<img align="right" alt="coding" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" width="320" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif">
 
-- 🎓 B.Tech 3rd Year Student
-- 💻 Full Stack MERN Developer
-- 🚀 Passionate about building modern web applications
-- 🔥 Skilled in REST APIs, Authentication & CRUD Operations
-- 🌱 Currently learning Backend Architecture & System Design
-- ⚡ Love creating responsive and user-friendly interfaces
+- 🎓 B.Tech 3rd Year Student  
+- 💻 Full Stack MERN Developer  
+- 🚀 Passionate about Web Development  
+- 🔥 Love building real-world projects  
+- 🌱 Currently learning System Design & Advanced Backend  
+- ⚡ Focused on clean & scalable code  
 
 ---
 
@@ -34,24 +32,24 @@
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Projects
 
 ### 📚 Online Learning Platform
-✨ Full Stack MERN application with authentication and responsive UI.
+Full Stack MERN app with authentication, courses, and responsive UI.
 
-### 🍦 Sweet Scoops Admin Dashboard
-✨ Employee & Product Management System with CRUD operations and image upload.
+### 🍦 Icecream Outlet || MultiAdmin 
+Admin + Employee management system with CRUD & image upload.
 
 ### 🧑‍💼 Employee Management System
-✨ Built using Node.js, Express.js, MongoDB & EJS.
+Built using Node.js, Express, MongoDB, EJS.
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=SnehaNamdevv&show_icons=true&theme=tokyonight&border_radius=10" />
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=SnehaNamdevv&theme=tokyonight&border_radius=10" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=SnehaNamdevv&show_icons=true&theme=tokyonight" />
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=SnehaNamdevv&theme=tokyonight" />
 </p>
 
 <p align="center">
@@ -63,28 +61,24 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="YOUR_LINKEDIN_LINK" target="blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="45" />
+  <a href="www.linkedin.com/in/sneha-namdev-9297712b0">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
   </a>
   &nbsp;&nbsp;
-  <a href="YOUR_GITHUB_LINK" target="blank">
-    <img src="https://skillicons.dev/icons?i=github" height="45" />
+  <a href="https://github.com/SnehaNamdevv">
+    <img src="https://skillicons.dev/icons?i=github" height="45"/>
   </a>
   &nbsp;&nbsp;
-  <a href="YOUR_PORTFOLIO_LINK" target="blank">
-    <img src="https://skillicons.dev/icons?i=vercel" height="45" />
-  </a>
 </p>
 
 ---
 
 ## ✨ Extended Description
 
-🚀 Passionate Full Stack MERN Developer with hands-on experience in building responsive, scalable, and user-friendly web applications. Skilled in developing REST APIs, authentication systems, CRUD operations, and dynamic admin dashboards using MongoDB, Express.js, React.js, and Node.js. Currently pursuing B.Tech while continuously improving backend development, problem-solving, and system design skills.
+Full Stack MERN Developer with experience in building responsive and scalable web applications using React, Node.js, Express, and MongoDB. Skilled in REST APIs, authentication, CRUD operations, and admin dashboards. Passionate about continuous learning and solving real-world problems through clean and efficient code.
 
 ---
 
 <p align="center">
   ✨ Thanks for visiting my profile ✨
 </p>
-```
