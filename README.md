@@ -18,17 +18,16 @@
 - 🎓 Computer Science Graduate (B.Tech)  
 - 💻 Full Stack MERN Developer  
 - ☕ Java & Web Development Enthusiast  
-- 🚀 Passionate about building scalable and real-world web applications  
-- 🌱 Continuously learning System Design & Advanced Backend Development  
-- ⚡ Strong focus on writing clean, efficient & maintainable code  
-- 🔥 Interested in building impactful and user-friendly digital solutions  
+- 🚀 Passionate about building scalable real-world applications  
+- 🌱 Learning System Design & Advanced Backend Development  
+- ⚡ Focused on clean, efficient & maintainable code  
 
 ---
 
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,mysql,java,git,github,bootstrap,firebase,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,mysql,java,git,github,bootstrap,firebase,postman,vscode" />
 </p>
 
 ---
@@ -52,6 +51,22 @@ Built a MERN-based healthcare application to upload, manage, and analyze medical
 
 ---
 
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=SnehaNamdevv&theme=tokyonight&row=1&column=6" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://github.com/platane/snk/raw/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -59,9 +74,41 @@ Built a MERN-based healthcare application to upload, manage, and analyze medical
   <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=SnehaNamdevv&theme=tokyonight" />
 </p>
 
+---
+
+## 📈 Most Used Languages
+
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SnehaNamdevv&theme=tokyo-night" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SnehaNamdevv&layout=compact&theme=tokyonight" />
 </p>
+
+---
+
+## 📊 Profile Insights
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SnehaNamdevv&theme=tokyonight" />
+</p>
+
+---
+
+## 🚀 Currently Working On
+
+- Improving System Design Skills  
+- Building Advanced MERN Projects  
+- Learning Scalable Backend Architecture  
+
+---
+
+## 💼 Skills Highlights
+
+- 🔹 Full Stack MERN Development  
+- 🔹 REST API Development  
+- 🔹 Authentication & Authorization  
+- 🔹 CRUD Applications  
+- 🔹 Admin Dashboards  
+- 🔹 Database Design (MongoDB)  
+- 🔹 API Testing (Postman)  
 
 ---
 
