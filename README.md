@@ -37,8 +37,12 @@
 ### 📚 Online Learning Platform (Java)
 Built a Java-based online learning management system to handle course creation, student enrollment, and content management. Implemented OOP principles, database integration, and structured backend logic for efficient data processing and scalability.
 
-### 🍦 Icecream Outlet || MultiAdmin 
-Admin + Employee management system with CRUD & image upload.
+### 🍦 Ice Cream Outlet || Multi-Admin System with Billing & Cashier Management (MERN Stack)
+Developed a full-stack MERN-based web application for managing an ice cream outlet with multi-admin support and role-based access control. Implemented secure authentication, CRUD operations for employees and products, and image upload functionality using Multer. Designed a responsive and user-friendly admin dashboard for efficient business operations.
+
+Integrated a billing system and cashier management module to handle customer orders, generate invoices, and maintain transaction records. Ensured proper tracking of each action using the `createdBy` field for accountability and data integrity across the system.
+
+Also added a **billing system and cashier management module** to handle customer orders, generate bills, and maintain transaction records. Each sale is tracked properly to ensure accurate reporting and smooth cashier operations. Included `createdBy` field to track admin activities and maintain data accountability.
 
 ### 🏥 Medical Report Analyzer (MERN Stack)
 Developed a full-stack Medical Report Analyzer using MongoDB, Express.js, React.js, and Node.js to upload, manage, and analyze patient medical reports. Implemented secure authentication, structured data storage, and dynamic dashboard for viewing patient history and reports. Focused on efficient data handling, responsive UI, and improved accessibility of medical information.
