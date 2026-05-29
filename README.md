@@ -66,25 +66,25 @@ Built a MERN-based healthcare application to upload, manage, and analyze medical
 ## 🌐 Connect With Me
 
 <p align="center">
+
   <a href="mailto:namdevsneha23@gmail.com">
-    <img src="https://img.shields.io/badge/Email-namdevsneha23@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 
-  &nbsp;&nbsp;
-
-  <a href="https://www.linkedin.com/in/sneha-namdev-9297712b0">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
+  <a href="https://www.linkedin.com/in/sneha-namdev-9297712b0" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 
-  &nbsp;&nbsp;
-
-  <a href="https://github.com/SnehaNamdevv">
-    <img src="https://skillicons.dev/icons?i=github" height="45"/>
+  <a href="https://github.com/SnehaNamdevv" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Follow-%23181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
+
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="250"/>
 </p>
 
 ---
 
-<p align="center">
-  ✨ Thanks for visiting my profile ✨
-</p>
+## ✨ Thanks for visiting my profile ✨
