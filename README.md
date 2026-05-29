@@ -34,14 +34,14 @@
 
 ## 🚀 Projects
 
-### 📚 Online Learning Platform
-Full Stack MERN app with authentication, courses, and responsive UI.
+### 📚 Online Learning Platform (Java)
+Built a Java-based online learning management system to handle course creation, student enrollment, and content management. Implemented OOP principles, database integration, and structured backend logic for efficient data processing and scalability.
 
 ### 🍦 Icecream Outlet || MultiAdmin 
 Admin + Employee management system with CRUD & image upload.
 
-### 🧑‍💼 Employee Management System
-Built using Node.js, Express, MongoDB, EJS.
+### 🏥 Medical Report Analyzer (MERN Stack)
+Developed a full-stack Medical Report Analyzer using MongoDB, Express.js, React.js, and Node.js to upload, manage, and analyze patient medical reports. Implemented secure authentication, structured data storage, and dynamic dashboard for viewing patient history and reports. Focused on efficient data handling, responsive UI, and improved accessibility of medical information.
 
 ---
 
