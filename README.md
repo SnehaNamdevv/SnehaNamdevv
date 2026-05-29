@@ -61,16 +61,22 @@ Developed a full-stack Medical Report Analyzer using MongoDB, Express.js, React.
 ## 🌐 Connect With Me
 
 <p align="center">
+  <a href="mailto:namdevsneha23@gmail.com">
+    <img src="https://img.shields.io/badge/Email-namdevsneha23@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+
+  &nbsp;&nbsp;
+
   <a href="www.linkedin.com/in/sneha-namdev-9297712b0">
     <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
   </a>
+
   &nbsp;&nbsp;
+
   <a href="https://github.com/SnehaNamdevv">
     <img src="https://skillicons.dev/icons?i=github" height="45"/>
   </a>
-  &nbsp;&nbsp;
 </p>
-
 ---
 
 ## ✨ Extended Description
