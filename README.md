@@ -1,7 +1,8 @@
+
 <h1 align="center">Hi 👋, I'm Sneha Namdev</h1>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Full+Stack+MERN+Developer;Java+Developer;B.Tech+Student;Building+Scalable+Web+Applications" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Full+Stack+MERN+Developer;Java+Developer;Computer+Science+Graduate;Building+Scalable+Web+Applications" />
 </h3>
 
 <p align="center">
@@ -14,12 +15,13 @@
 
 <img align="right" width="300" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif">
 
-- 🎓 B.Tech 3rd Year Student  
+- 🎓 Computer Science Graduate (B.Tech)  
 - 💻 Full Stack MERN Developer  
-- ☕ Java + Web Development Enthusiast  
-- 🚀 Passionate about building real-world scalable applications  
-- 🌱 Learning System Design & Advanced Backend Development  
-- ⚡ Focused on writing clean, efficient & maintainable code  
+- ☕ Java & Web Development Enthusiast  
+- 🚀 Passionate about building scalable and real-world web applications  
+- 🌱 Continuously learning System Design & Advanced Backend Development  
+- ⚡ Strong focus on writing clean, efficient & maintainable code  
+- 🔥 Interested in building impactful and user-friendly digital solutions  
 
 ---
 
